@@ -86,8 +86,8 @@ The **Online Security Guards Hiring System** is a web-based application develope
 
 4. **Create the Database**:
    - Open **phpMyAdmin** in your browser (usually `http://localhost/phpmyadmin`).
-   - Create a new database, e.g., `guards_hiring_db`.
-   - Import the provided SQL file (`guards_hiring.sql`) into the new database.
+   - Create a new database, e.g., `osghs`.
+   - Import the provided SQL file (`osghs.sql`) into the new database.
 
 5. **Configure the Project**:
    - Open the project’s configuration file (`config.php`) and update the database credentials:
